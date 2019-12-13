@@ -5,8 +5,7 @@
 >Uses AES encryption with a large bit length, using a DUID (Device Unique Identifier) that is double hashed.\
 >Double hashing ensures no collision or security risk.
 
-# Usage:
-## gcrypt -{flag}
+_Usage: gcrypt -flag_
 
 Flags | Description
 ---- | ----
