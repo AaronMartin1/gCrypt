@@ -15,4 +15,4 @@ Flags | Description
 -e file.txt key.gck | Encrypt with Key
 
 ### Features ###
-- Asymmetric, File encryption and much more!
+- Asymmetric, file encryption and much more!
