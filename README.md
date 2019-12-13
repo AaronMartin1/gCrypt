@@ -16,3 +16,5 @@ Flags | Description
 
 ### Features ###
 - Asymmetric, file encryption and much more!
+
+__**Gr33tz Edge...**__
