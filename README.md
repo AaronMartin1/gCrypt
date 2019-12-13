@@ -3,7 +3,7 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 >Uses AES encryption with a large bit length, using a DUID (Device Unique Identifier) that is double hashed.\
->Double hashing ensures no collision or security risk.\
+>Double hashing ensures no collision or security risk.
 
 # Usage:
 ## gcrypt -{flag}
@@ -16,4 +16,4 @@ Flags | Description
 -e file.txt key.gck | Encrypt with Key
 
 ### Features ###
-- Asymmetric
+- Asymmetric, File encryption and much more!
