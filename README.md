@@ -5,5 +5,5 @@
 
 > Sent by a friend.\
 > Could potentially be malware, not sure if it's legitimate.\
-> However, the friend who sent the project is close and trusted friend.\
+> However, the friend who sent the project is close and trusted friend.
 
